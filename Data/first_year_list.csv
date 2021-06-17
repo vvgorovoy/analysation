@@ -1,0 +1,503 @@
+Company,Ticker,Sector,Sub-sector,Year of first statement
+apple,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+microsoft,MSFT,Information Technology,Systems Software,2005.0
+amazon,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail,2005.0
+tesla,TSLA,Consumer Discretionary,Automobile Manufacturers,2008.0
+facebook,FB,Communication Services,Interactive Media & Services,2007.0
+alphabet,GOOGL,Communication Services,Interactive Media & Services,2005.0
+alphabet,GOOG,Communication Services,Interactive Media & Services,2005.0
+berkshire-hathaway,BRK.B,Financials,Multi-Sector Holdings,2005.0
+johnson-johnson,JNJ,Health Care,Pharmaceuticals,2005.0
+jpmorgan-chase,JPM,Financials,Diversified Banks,2005.0
+visa,V,Information Technology,Data Processing & Outsourced Services,2005.0
+nvidia,NVDA,Information Technology,Semiconductors,2005.0
+procter-gamble,PG,Consumer Staples,Personal Products,2005.0
+unitedhealth-group,UNH,Health Care,Managed Health Care,2005.0
+walt-disney,DIS,Communication Services,Movies & Entertainment,2005.0
+home-depot,HD,Consumer Discretionary,Home Improvement Retail,2005.0
+paypal-holdings,PYPL,Information Technology,Data Processing & Outsourced Services,2012.0
+mastercard,MA,Information Technology,Data Processing & Outsourced Services,2005.0
+netflix,NFLX,Communication Services,Movies & Entertainment,2005.0
+intel,INTC,Information Technology,Semiconductors,2005.0
+comcast,CMCSA,Communication Services,Cable & Satellite,2005.0
+bank-of-america,BAC,Financials,Diversified Banks,2005.0
+adobe,ADBE,Information Technology,Application Software,2005.0
+verizon,VZ,Communication Services,Integrated Telecommunication Services,2005.0
+abbott-laboratories,ABT,Health Care,Health Care Equipment,2005.0
+salesforce-inc,CRM,Information Technology,Application Software,2005.0
+thermo-fisher-scientific,TMO,Health Care,Life Sciences Tools & Services,2005.0
+at-t,T,Communication Services,Integrated Telecommunication Services,2005.0
+pfizer,PFE,Health Care,Pharmaceuticals,2005.0
+merck,MRK,Health Care,Pharmaceuticals,2005.0
+walmart,WMT,Consumer Staples,Hypermarkets & Super Centers,2005.0
+cisco-systems,CSCO,Information Technology,Communications Equipment,2005.0
+exxon-mobil,XOM,Energy,Integrated Oil & Gas,2005.0
+pepsico,PEP,Consumer Staples,Soft Drinks,2005.0
+broadcom,AVGO,Information Technology,Semiconductors,2007.0
+coca-cola,KO,Consumer Staples,Soft Drinks,2005.0
+qualcomm,QCOM,Information Technology,Semiconductors,2005.0
+abbvie,ABBV,Health Care,Pharmaceuticals,2009.0
+nike,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+chevron,CVX,Energy,Integrated Oil & Gas,2005.0
+eli-lilly,LLY,Health Care,Pharmaceuticals,2005.0
+nextera-energy,NEE,Utilities,Multi-Utilities,2005.0
+texas-instruments,TXN,Information Technology,Semiconductors,2005.0
+accenture,ACN,Information Technology,IT Consulting & Other Services,2005.0
+mcdonald's,MCD,Consumer Discretionary,Restaurants,2005.0
+costco,COST,Consumer Staples,Hypermarkets & Super Centers,2005.0
+danaher,DHR,Health Care,Health Care Equipment,2005.0
+medtronic,MDT,Health Care,Health Care Equipment,2005.0
+bristol-myers-squibb,BMY,Health Care,Health Care Distributors,2005.0
+amgen,AMGN,Health Care,Biotechnology,2005.0
+honeywell,HON,Industrials,Industrial Conglomerates,2005.0
+union-pacific,UNP,Industrials,Railroads,2005.0
+linde,LIN,Materials,Industrial Gases,2005.0
+wells-fargo,WFC,Financials,Diversified Banks,2005.0
+philip-morris,PM,Consumer Staples,Tobacco,2005.0
+citigroup,C,Financials,Diversified Banks,2005.0
+lowe's,LOW,Consumer Discretionary,Home Improvement Retail,2005.0
+oracle,ORCL,Information Technology,Application Software,2005.0
+starbucks,SBUX,Consumer Discretionary,Restaurants,2005.0
+ups,UPS,Industrials,Air Freight & Logistics,2005.0
+servicenow,NOW,Information Technology,Systems Software,2008.0
+ibm,IBM,Information Technology,IT Consulting & Other Services,2005.0
+amd,AMD,Information Technology,Semiconductors,2005.0
+american-tower,AMT,Real Estate,Specialized REITs,2005.0
+boeing,BA,Industrials,Aerospace & Defense,2005.0
+raytheon-technologies,RTX,Industrials,Aerospace & Defense,2005.0
+blackrock,BLK,Financials,Asset Management & Custody Banks,2005.0
+3m,MMM,Industrials,Industrial Conglomerates,2005.0
+caterpillar,CAT,Industrials,Construction Machinery & Heavy Trucks,2005.0
+intuit,INTU,Information Technology,Application Software,2005.0
+morgan-stanley,MS,Financials,Investment Banking & Brokerage,2005.0
+goldman-sachs,GS,Financials,Investment Banking & Brokerage,2005.0
+general-electric,GE,Industrials,Industrial Conglomerates,2005.0
+cvs-health,CVS,Health Care,Health Care Services,2005.0
+applied-materials,AMAT,Information Technology,Semiconductor Equipment,2005.0
+target,TGT,Consumer Discretionary,General Merchandise Stores,2005.0
+deere,DE,Industrials,Agricultural & Farm Machinery,2005.0
+micron-technology,MU,Information Technology,Semiconductors,2005.0
+intuitive-surgical,ISRG,Health Care,Health Care Equipment,2005.0
+charter,CHTR,Communication Services,Cable & Satellite,2005.0
+gilead-sciences,GILD,Health Care,Biotechnology,2005.0
+booking-holdings,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail,2005.0
+fidelity-national-information-services,FIS,Information Technology,Data Processing & Outsourced Services,2005.0
+lockheed-martin,LMT,Industrials,Aerospace & Defense,2005.0
+charles-schwab,SCHW,Financials,Investment Banking & Brokerage,2005.0
+mondelez,MDLZ,Consumer Staples,Packaged Foods & Meats,2005.0
+cigna,CI,Health Care,Managed Health Care,2005.0
+prologis,PLD,Real Estate,Industrial REITs,2005.0
+s-p-global,SPGI,Financials,Financial Exchanges & Data,2005.0
+tjx,TJX,Consumer Discretionary,Apparel Retail,2005.0
+american-express,AXP,Financials,Consumer Finance,2005.0
+becton-dickinson,BDX,Health Care,Health Care Equipment,2005.0
+altria,MO,Consumer Staples,Tobacco,2005.0
+t-mobile-us,TMUS,Communication Services,Wireless Telecommunication Services,2005.0
+stryker,SYK,Health Care,Health Care Equipment,2005.0
+zoetis,ZTS,Health Care,Pharmaceuticals,2010.0
+anthem,ANTM,Health Care,Managed Health Care,2005.0
+lam-research,LRCX,Information Technology,Semiconductor Equipment,2005.0
+adp,ADP,Information Technology,Internet Services & Infrastructure,2005.0
+crown-castle,CCI,Real Estate,Specialized REITs,2005.0
+activision-blizzard,ATVI,Communication Services,Interactive Home Entertainment,2005.0
+duke-energy,DUK,Utilities,Electric Utilities,2005.0
+equinix,EQIX,Real Estate,Specialized REITs,2005.0
+colgate-palmolive,CL,Consumer Staples,Household Products,2005.0
+cme-group,CME,Financials,Financial Exchanges & Data,2005.0
+chubb,CB,Financials,Property & Casualty Insurance,2005.0
+csx,CSX,Industrials,Railroads,2005.0
+truist-financial,TFC,Financials,Regional Banks,2005.0
+general-motors,GM,Consumer Discretionary,Automobile Manufacturers,2008.0
+illumina,ILMN,Health Care,Life Sciences Tools & Services,2005.0
+intercontinental-exchange,ICE,Financials,Financial Exchanges & Data,2005.0
+autodesk,ADSK,Information Technology,Application Software,2005.0
+southern,SO,Utilities,Electric Utilities,2005.0
+pnc-financial-services-group,PNC,Financials,Regional Banks,2005.0
+fiserv,FISV,Information Technology,Data Processing & Outsourced Services,2005.0
+norfolk-southern,NSC,Industrials,Railroads,2005.0
+vertex-pharmaceuticals,VRTX,Health Care,Biotechnology,2005.0
+air-products-and-chemicals,APD,Materials,Industrial Gases,2005.0
+dominion-energy,D,Utilities,Electric Utilities,2005.0
+us-bancorp,USB,Financials,Diversified Banks,2005.0
+fedex,FDX,Industrials,Air Freight & Logistics,2005.0
+sherwin-williams,SHW,Materials,Specialty Chemicals,2005.0
+illinois-tool-works,ITW,Industrials,Industrial Machinery,2005.0
+analog-devices,ADI,Information Technology,Semiconductors,2005.0
+marsh-mclennan,MMC,Financials,Insurance Brokers,2005.0
+conocophillips,COP,Energy,Oil & Gas Exploration & Production,2005.0
+estee-lauder,EL,Consumer Staples,Personal Products,2005.0
+global-payments,GPN,Information Technology,Data Processing & Outsourced Services,2005.0
+dupont-de-nemours,DD,Materials,Specialty Chemicals,2005.0
+regeneron-pharmaceuticals,REGN,Health Care,Biotechnology,2005.0
+ecolab,ECL,Materials,Specialty Chemicals,2005.0
+boston-scientific,BSX,Health Care,Health Care Equipment,2005.0
+edwards-lifesciences,EW,Health Care,Health Care Equipment,2005.0
+progressive,PGR,Financials,Property & Casualty Insurance,2005.0
+humana,HUM,Health Care,Managed Health Care,2005.0
+eaton,ETN,Industrials,Electrical Components & Equipment,2005.0
+emerson-electric,EMR,Industrials,Electrical Components & Equipment,2005.0
+newmont,NEM,Materials,Gold,2005.0
+aon,AON,Financials,Insurance Brokers,2005.0
+dollar-general,DG,Consumer Discretionary,General Merchandise Stores,2005.0
+capital-one-financial,COF,Financials,Consumer Finance,2005.0
+northrop-grumman,NOC,Industrials,Aerospace & Defense,2005.0
+kimberly-clark,KMB,Consumer Staples,Household Products,2005.0
+kla,KLAC,Information Technology,Semiconductor Equipment,2005.0
+hca-healthcare,HCA,Health Care,Health Care Facilities,2005.0
+moody's,MCO,Financials,Financial Exchanges & Data,2005.0
+waste-management,WM,Industrials,Environmental & Facilities Services,2005.0
+biogen,BIIB,Health Care,Biotechnology,2005.0
+ford-motor,F,Consumer Discretionary,Automobile Manufacturers,2005.0
+electronic-arts,EA,Communication Services,Interactive Home Entertainment,2005.0
+chipotle-mexican-grill,CMG,Consumer Discretionary,Restaurants,2005.0
+cognizant-technology-solutions,CTSH,Information Technology,IT Consulting & Other Services,2005.0
+idexx-laboratories,IDXX,Health Care,Health Care Equipment,2005.0
+twitter,TWTR,Communication Services,Interactive Media & Services,2010.0
+digital-realty-trust,DLR,Real Estate,Specialized REITs,2005.0
+te-connectivity,TEL,Information Technology,Electronic Manufacturing Services,2005.0
+exelon,EXC,Utilities,Multi-Utilities,2005.0
+roper-technologies,ROP,Industrials,Industrial Conglomerates,2005.0
+freeport-mcmoran,FCX,Materials,Copper,2005.0
+american-electric-power,AEP,Utilities,Electric Utilities,2005.0
+synopsys,SNPS,Information Technology,Application Software,2005.0
+ross-stores,ROST,Consumer Discretionary,Apparel Retail,2005.0
+dow,DOW,Materials,Commodity Chemicals,2016.0
+baxter,BAX,Health Care,Health Care Equipment,2005.0
+align-technology,ALGN,Health Care,Health Care Supplies,2005.0
+ebay,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail,2005.0
+amphenol,APH,Information Technology,Electronic Components,2005.0
+cadence-design-systems,CDNS,Information Technology,Application Software,2005.0
+aptiv,APTV,Consumer Discretionary,Auto Parts & Equipment,2009.0
+metlife,MET,Financials,Life & Health Insurance,2005.0
+microchip-technology,MCHP,Information Technology,Semiconductors,2005.0
+agilent-technologies,A,Health Care,Health Care Equipment,2005.0
+johnson-controls,JCI,Industrials,Building Products,2005.0
+dexcom,DXCM,Health Care,Health Care Equipment,2005.0
+constellation-brands,STZ,Consumer Staples,Distillers & Vintners,2005.0
+l3harris-technologies-inc,LHX,Industrials,Aerospace & Defense,2005.0
+sysco,SYY,Consumer Staples,Food Distributors,2005.0
+sempra-energy,SRE,Utilities,Multi-Utilities,2005.0
+public-storage,PSA,Real Estate,Specialized REITs,2005.0
+t-rowe-price-group,TROW,Financials,Asset Management & Custody Banks,2005.0
+general-mills,GIS,Consumer Staples,Packaged Foods & Meats,2005.0
+walgreens-boots-alliance,WBA,Consumer Staples,Drug Retail,2005.0
+travelers,TRV,Financials,Property & Casualty Insurance,2005.0
+iqvia-holdings,IQV,Health Care,Life Sciences Tools & Services,2010.0
+parker-hannifin,PH,Industrials,Industrial Machinery,2005.0
+centene,CNC,Health Care,Managed Health Care,2005.0
+msci,MSCI,Financials,Financial Exchanges & Data,2005.0
+cummins,CMI,Industrials,Industrial Machinery,2005.0
+general-dynamics,GD,Industrials,Aerospace & Defense,2005.0
+trane-technologies,TT,Industrials,Building Products,2005.0
+alexion-pharmaceuticals,ALXN,Health Care,Biotechnology,2005.0
+hp,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+xcel-energy,XEL,Utilities,Multi-Utilities,2005.0
+xilinx,XLNX,Information Technology,Semiconductors,2005.0
+allstate,ALL,Financials,Property & Casualty Insurance,2005.0
+bank-of-new-york-mellon,BK,Financials,Asset Management & Custody Banks,2005.0
+ihs-markit,INFO,Industrials,Research & Consulting Services,2013.0
+ppg-industries,PPG,Materials,Specialty Chemicals,2005.0
+monster-beverage,MNST,Consumer Staples,Soft Drinks,2005.0
+american-group,AIG,Financials,Property & Casualty Insurance,2005.0
+zimmer-biomet-holdings,ZBH,Health Care,Health Care Equipment,2005.0
+o'reilly-automotive,ORLY,Consumer Discretionary,Specialty Stores,2005.0
+ansys,ANSS,Information Technology,Application Software,2005.0
+paccar,PCAR,Industrials,Construction Machinery & Heavy Trucks,2005.0
+carrier-global,CARR,Industrials,Building Products,2017.0
+marriott,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2005.0
+prudential-financial,PRU,Financials,Life & Health Insurance,2005.0
+yum!-brands,YUM,Consumer Discretionary,Restaurants,2005.0
+transdigm-group,TDG,Industrials,Aerospace & Defense,2005.0
+sba,SBAC,Real Estate,Specialized REITs,2005.0
+skyworks-solutions,SWKS,Information Technology,Semiconductors,2005.0
+schlumberger,SLB,Energy,Oil & Gas Equipment & Services,2005.0
+simon-property,SPG,Real Estate,Retail REITs,2005.0
+corteva,CTVA,Materials,Fertilizers & Agricultural Chemicals,2017.0
+verisk-analytics,VRSK,Industrials,Research & Consulting Services,2007.0
+eversource-energy,ES,Utilities,Multi-Utilities,2005.0
+eog-resources,EOG,Energy,Oil & Gas Exploration & Production,2005.0
+aflac,AFL,Financials,Life & Health Insurance,2005.0
+motorola-solutions,MSI,Information Technology,Communications Equipment,2005.0
+viacomcbs,VIAC,Communication Services,Movies & Entertainment,2005.0
+phillips-66,PSX,Energy,Oil & Gas Refining & Marketing,2008.0
+resmed,RMD,Health Care,Health Care Equipment,2005.0
+american-water-works,AWK,Utilities,Water Utilities,2006.0
+ball,BLL,Materials,Metal & Glass Containers,2005.0
+public-service-enterprise-group,PEG,Utilities,Electric Utilities,2005.0
+mckesson,MCK,Health Care,Health Care Distributors,2005.0
+rockwell-automation,ROK,Industrials,Electrical Components & Equipment,2005.0
+cintas,CTAS,Industrials,Diversified Support Services,2005.0
+paychex,PAYX,Information Technology,Data Processing & Outsourced Services,2005.0
+hilton-worldwide-holdings,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2005.0
+marathon-petroleum,MPC,Energy,Oil & Gas Refining & Marketing,2008.0
+mettler-toledo,MTD,Health Care,Life Sciences Tools & Services,2005.0
+archer-daniels-midland,ADM,Consumer Staples,Agricultural Products,2005.0
+wec-energy,WEC,Utilities,Electric Utilities,2005.0
+stanley-black-decker,SWK,Industrials,Industrial Machinery,2005.0
+corning,GLW,Information Technology,Electronic Components,2005.0
+kinder-morgan,KMI,Energy,Oil & Gas Storage & Transportation,2008.0
+autozone,AZO,Consumer Discretionary,Specialty Stores,2005.0
+willis-towers-watson-public,WLTW,Financials,Insurance Brokers,2005.0
+fastenal,FAST,Industrials,Building Products,2005.0
+clorox,CLX,Consumer Staples,Household Products,2005.0
+keysight-technologies,KEYS,Information Technology,Electronic Equipment & Instruments,2005.0
+southwest-airlines,LUV,Industrials,Airlines,2005.0
+ametek,AME,Industrials,Electrical Components & Equipment,2005.0
+otis-worldwide,OTIS,Industrials,Industrial Machinery,2018.0
+kroger,KR,Consumer Staples,Food Retail,2005.0
+welltower,WELL,Real Estate,Health Care REITs,2005.0
+williams,WMB,Energy,Oil & Gas Storage & Transportation,2005.0
+dr-horton,DHI,Consumer Discretionary,Homebuilding,2005.0
+first-republic-bank,FRC,Financials,Regional Banks,2008.0
+etsy,ETSY,,,2012.0
+discover-financial-services,DFS,Financials,Consumer Finance,2005.0
+vf,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+best-buy,BBY,Consumer Discretionary,Computer & Electronics Retail,2005.0
+state-street,STT,Financials,Asset Management & Custody Banks,2005.0
+cerner,CERN,Health Care,Health Care Technology,2005.0
+pioneer-natural-resources,PXD,Energy,Oil & Gas Exploration & Production,2005.0
+maxim-integrated-products,MXIM,Information Technology,Semiconductors,2005.0
+consolidated-edison,ED,Utilities,Electric Utilities,2005.0
+delta-air-lines,DAL,Industrials,Airlines,2005.0
+weyerhaeuser,WY,Real Estate,Specialized REITs,2005.0
+dollar-tree,DLTR,Consumer Discretionary,General Merchandise Stores,2005.0
+ameriprise-financial,AMP,Financials,Asset Management & Custody Banks,2005.0
+svb-financial-group,SIVB,Financials,Regional Banks,2005.0
+enphase-energy,ENPH,Utilities,Renewable electricity,2007.0
+lennar,LEN,Consumer Discretionary,Homebuilding,2005.0
+dte-energy,DTE,Utilities,Multi-Utilities,2005.0
+take-two-interactive-software,TTWO,Communication Services,Interactive Home Entertainment,2005.0
+avalonbay-communities,AVB,Real Estate,Residential REITs,2005.0
+copart,CPRT,Industrials,Diversified Support Services,2005.0
+valero-energy,VLO,Energy,Oil & Gas Refining & Marketing,2005.0
+laboratory-of-america-holdings,LH,Health Care,Health Care Services,2005.0
+fortive,FTV,Industrials,Industrial Machinery,2012.0
+lyondellbasell-industries,LYB,Materials,Specialty Chemicals,2006.0
+mccormick,MKC,Consumer Staples,Packaged Foods & Meats,2005.0
+arthur-j-gallagher,AJG,Financials,Insurance Brokers,2005.0
+west-pharmaceutical-services,WST,Health Care,Health Care Supplies,2005.0
+edison,EIX,Utilities,Electric Utilities,2005.0
+equifax,EFX,Industrials,Research & Consulting Services,2005.0
+marketaxess-holdings,MKTX,Financials,Financial Exchanges & Data,2005.0
+kraft-heinz,KHC,Consumer Staples,Packaged Foods & Meats,2010.0
+ppl,PPL,Utilities,Electric Utilities,2005.0
+hershey,HSY,Consumer Staples,Packaged Foods & Meats,2005.0
+cbre,CBRE,Real Estate,Real Estate Services,2005.0
+equity-residential,EQR,Real Estate,Residential REITs,2005.0
+hologic,HOLX,Health Care,Health Care Equipment,2005.0
+zebra-technologies,ZBRA,Information Technology,Electronic Equipment & Instruments,2005.0
+realtyome,O,Real Estate,Retail REITs,2005.0
+viatris,VTRS,Health Care,Pharmaceuticals,2005.0
+fifth-third-bancorp,FITB,Financials,Regional Banks,2005.0
+qorvo,QRVO,Information Technology,Semiconductors,2013.0
+church-dwight,CHD,Consumer Staples,Household Products,2005.0
+fleetcor-technologies,FLT,Information Technology,Data Processing & Outsourced Services,2007.0
+alexandria-real-estate-equities,ARE,Real Estate,Office REITs,2005.0
+vulcan-materials,VMC,Materials,Construction Materials,2005.0
+fortinet,FTNT,Information Technology,Systems Software,2007.0
+verisign,VRSN,Information Technology,Internet Services & Infrastructure,2005.0
+cdw,CDW,Information Technology,Technology Distributors,2010.0
+international-paper,IP,Materials,Paper Packaging,2005.0
+teradyne,TER,Information Technology,Semiconductor Equipment,2005.0
+paycom-software,PAYC,Information Technology,Application Software,2011.0
+catalent,CTLT,Health Care,Health Care Supplies,2011.0
+kansas-city-southern,KSU,Industrials,Railroads,2005.0
+carmax,KMX,Consumer Discretionary,Specialty Stores,2005.0
+old-dominion-freight-line,ODFL,Industrials,Trucking,2005.0
+republic-services,RSG,Industrials,Environmental & Facilities Services,2005.0
+entergy,ETR,Utilities,Electric Utilities,2005.0
+tyson-foods,TSN,Consumer Staples,Packaged Foods & Meats,2005.0
+northern-trust,NTRS,Financials,Asset Management & Custody Banks,2005.0
+synchrony-financial,SYF,Financials,Consumer Finance,2011.0
+martin-marietta-materials,MLM,Materials,Construction Materials,2005.0
+united-rentals,URI,Industrials,Trading Companies & Distributors,2005.0
+akamai-technologies,AKAM,Information Technology,Internet Services & Infrastructure,2005.0
+ameren,AEE,Utilities,Multi-Utilities,2005.0
+quest-diagnostics,DGX,Health Care,Health Care Services,2005.0
+cooper,COO,Health Care,Health Care Supplies,2005.0
+ventas,VTR,Real Estate,Health Care REITs,2005.0
+oneok,OKE,Energy,Oil & Gas Storage & Transportation,2005.0
+albemarle,ALB,Materials,Specialty Chemicals,2005.0
+teleflex,TFX,Health Care,Health Care Equipment,2005.0
+xylem,XYL,Industrials,Industrial Machinery,2009.0
+western-digital,WDC,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+garmin,GRMN,Consumer Discretionary,Consumer Electronics,2005.0
+hartford-financial-services-group,HIG,Financials,Property & Casualty Insurance,2005.0
+expedia-group,EXPE,Consumer Discretionary,Internet & Direct Marketing Retail,2005.0
+arista-networks,ANET,Information Technology,Communications Equipment,2011.0
+tyler-technologies,TYL,Information Technology,Systems Software,2005.0
+occidental-petroleum,OXY,Energy,Oil & Gas Exploration & Production,2005.0
+amcor,AMCR,Materials,Paper Packaging,2005.0
+trimble,TRMB,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+m-t-bank,MTB,Financials,Regional Banks,2005.0
+perkinelmer,PKI,Health Care,Health Care Equipment,2005.0
+dover,DOV,Industrials,Industrial Machinery,2005.0
+incyte,INCY,Health Care,Biotechnology,2005.0
+firstenergy,FE,Utilities,Electric Utilities,2005.0
+broadridge-financial-solutions,BR,Information Technology,Data Processing & Outsourced Services,2005.0
+keycorp,KEY,Financials,Regional Banks,2005.0
+conagra-brands,CAG,Consumer Staples,Packaged Foods & Meats,2005.0
+ww-grainger,GWW,Industrials,Industrial Machinery,2005.0
+waters,WAT,Health Care,Health Care Distributors,2005.0
+regions-financial,RF,Financials,Regional Banks,2005.0
+aes,AES,Utilities,Independent Power Producers & Energy Traders,2005.0
+cms-energy,CMS,Utilities,Multi-Utilities,2005.0
+healthpeak-properties,PEAK,Real Estate,Health Care REITs,2005.0
+citrix-systems,CTXS,Information Technology,Application Software,2005.0
+tractor-supply,TSCO,Consumer Discretionary,Specialty Stores,2005.0
+las-vegas-sands,LVS,Consumer Discretionary,Casinos & Gaming,2005.0
+cardinal-health,CAH,Health Care,Health Care Distributors,2005.0
+hewlett-packard-enterprise,HPE,Information Technology,"Technology Hardware, Storage & Peripherals",2012.0
+nasdaq,NDAQ,Financials,Financial Exchanges & Data,2005.0
+steris,STE,Health Care,Health Care Equipment,2005.0
+ulta-beauty,ULTA,Consumer Discretionary,Specialty Stores,2006.0
+citizens-financial,CFG,Financials,Regional Banks,2011.0
+nvr,NVR,Consumer Discretionary,Homebuilding,2005.0
+ingersoll-rand,IR,Industrials,Industrial Machinery,2014.0
+essex-property-trust,ESS,Real Estate,Residential REITs,2005.0
+halliburton,HAL,Energy,Oil & Gas Equipment & Services,2005.0
+amerisourcebergen,ABC,Health Care,Health Care Distributors,2005.0
+darden-restaurants,DRI,Consumer Discretionary,Restaurants,2005.0
+abiomed,ABMD,Health Care,Health Care Equipment,2005.0
+mid-america-apartment-communities,MAA,Real Estate,Residential REITs,2005.0
+expeditors-of-washington,EXPD,Industrials,Air Freight & Logistics,2005.0
+duke-realty,DRE,Real Estate,Industrial REITs,2005.0
+extra-space-storage,EXR,Real Estate,Specialized REITs,2005.0
+kellogg,K,Consumer Staples,Packaged Foods & Meats,2005.0
+seagate-technology,STX,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+hess,HES,Energy,Integrated Oil & Gas,2005.0
+nucor,NUE,Materials,Steel,2005.0
+netapp,NTAP,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+domino's-pizza,DPZ,Consumer Discretionary,Restaurants,2005.0
+pool,POOL,Consumer Discretionary,Leisure Products,2005.0
+masco,MAS,Industrials,Building Products,2005.0
+celanese,CE,Materials,Specialty Chemicals,2005.0
+idex,IEX,Industrials,Industrial Machinery,2005.0
+fmc,FMC,Materials,Fertilizers & Agricultural Chemicals,2005.0
+leidos-holdings,LDOS,Information Technology,IT Consulting & Other Services,2005.0
+carnival,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2005.0
+teledyne-technologies,TDY,Industrials,Aerospace & Defense,2005.0
+gartner,IT,Information Technology,IT Consulting & Other Services,2005.0
+genuine-parts,GPC,Consumer Discretionary,Specialty Stores,2005.0
+baker-hughes,BKR,Energy,Oil & Gas Equipment & Services,2005.0
+westinghouse-air-brake-technologies,WAB,Industrials,Construction Machinery & Heavy Trucks,2005.0
+eastman-chemical,EMN,Materials,Diversified Chemicals,2005.0
+omnicom-group,OMC,Communication Services,Advertising,2005.0
+huntington-bancshares,HBAN,Financials,Regional Banks,2005.0
+jacobs-engineering-group,J,Industrials,Construction & Engineering,2005.0
+hormel-foods,HRL,Consumer Staples,Packaged Foods & Meats,2005.0
+brown-forman,BF.B,Consumer Staples,Distillers & Vintners,2005.0
+j-m-smucker,SJM,Consumer Staples,Packaged Foods & Meats,2005.0
+cincinnati-financial,CINF,Financials,Property & Casualty Insurance,2005.0
+principal-financial-group,PFG,Financials,Life & Health Insurance,2005.0
+boston-properties,BXP,Real Estate,Office REITs,2005.0
+avery-dennison,AVY,Materials,Paper Packaging,2005.0
+packaging-of-america,PKG,Materials,Paper Packaging,2005.0
+bio-rad-laboratories,BIO,Health Care,Health Care Equipment,2005.0
+nortonlifelock,NLOK,Information Technology,Application Software,2005.0
+raymond-james-financial,RJF,Financials,Investment Banking & Brokerage,2005.0
+fortune-brands-home-security,FBHS,Industrials,Building Products,2009.0
+alliant-energy,LNT,Utilities,Electric Utilities,2005.0
+evergy,EVRG,Utilities,Electric Utilities,2005.0
+royal-caribbean-group,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2005.0
+f5-networks,FFIV,Information Technology,Communications Equipment,2005.0
+hasbro,HAS,Consumer Discretionary,Leisure Products,2005.0
+pultegroup,PHM,Consumer Discretionary,Homebuilding,2005.0
+mgm-resorts,MGM,Consumer Discretionary,Casinos & Gaming,2005.0
+dentsply-sirona,XRAY,Health Care,Health Care Supplies,2005.0
+ch-robinson-worldwide,CHRW,Industrials,Air Freight & Logistics,2005.0
+united-airlines-holdings,UAL,Industrials,Airlines,2005.0
+whirlpool,WHR,Consumer Discretionary,Household Appliances,2005.0
+lumen-technologies,LUMN,Communication Services,Integrated Telecommunication Services,2005.0
+centerpoint-energy,CNP,Utilities,Multi-Utilities,2005.0
+jb-hunt-transport-services,JBHT,Industrials,Trucking,2005.0
+udr,UDR,Real Estate,Residential REITs,2005.0
+jack-henry-associates,JKHY,Information Technology,Data Processing & Outsourced Services,2005.0
+atmos-energy,ATO,Utilities,Gas Utilities,2005.0
+lamb-weston-holdings,LW,Consumer Staples,Packaged Foods & Meats,2014.0
+westrock,WRK,Industrials,Paper Packaging,2005.0
+fox,FOXA,Communication Services,Movies & Entertainment,2017.0
+loews,L,Financials,Multi-line Insurance,2005.0
+textron,TXT,Industrials,Aerospace & Defense,2005.0
+discovery,DISCK,Communication Services,Broadcasting,2005.0
+nrg-energy,NRG,Utilities,Independent Power Producers & Energy Traders,2005.0
+borgwarner,BWA,Consumer Discretionary,Auto Parts & Equipment,2005.0
+american-airlines-group,AAL,Industrials,Airlines,2005.0
+cboe-global-markets,CBOE,Financials,Financial Exchanges & Data,2008.0
+advance-auto-parts,AAP,Consumer Discretionary,Automotive Retail,2005.0
+allegion,ALLE,Industrials,Building Products,2010.0
+quanta-services,PWR,Industrials,Construction & Engineering,2005.0
+lkq,LKQ,Consumer Discretionary,Distributors,2005.0
+snap-on,SNA,Industrials,Industrial Machinery,2005.0
+universal-health-services,UHS,Health Care,Health Care Facilities,2005.0
+devon-energy,DVN,Energy,Oil & Gas Exploration & Production,2005.0
+wynn-resorts,WYNN,Consumer Discretionary,Casinos & Gaming,2005.0
+l-brands,LB,Consumer Discretionary,Apparel Retail,2005.0
+howmet-aerospace,HWM,Industrials,Aerospace & Defense,2005.0
+campbell-soup,CPB,Consumer Staples,Packaged Foods & Meats,2005.0
+interpublic-group-of,IPG,Communication Services,Advertising,2005.0
+live-nation-entertainment,LYV,Communication Services,Movies & Entertainment,2005.0
+iron-mountain,IRM,Real Estate,Specialized REITs,2005.0
+henry-schein,HSIC,Health Care,Health Care Distributors,2005.0
+host-hotels-resorts,HST,Real Estate,Hotel & Resort REITs,2005.0
+molson-coors-beverage,TAP,Consumer Staples,Brewers,2005.0
+western-union,WU,Information Technology,Data Processing & Outsourced Services,2005.0
+mosaic,MOS,Materials,Fertilizers & Agricultural Chemicals,2005.0
+newell-brands,NWL,Consumer Discretionary,Housewares & Specialties,2005.0
+cf-industries-holdings,CF,Materials,Fertilizers & Agricultural Chemicals,2005.0
+diamondback-energy,FANG,Energy,Oil & Gas Exploration & Production,2010.0
+pentair,PNR,Industrials,Industrial Machinery,2005.0
+w-r-berkley,WRB,Financials,Property & Casualty Insurance,2005.0
+tapestry,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+globe-life,GL,Financials,Life & Health Insurance,2005.0
+davita,DVA,Health Care,Health Care Facilities,2005.0
+mohawk-industries,MHK,Consumer Discretionary,Home Furnishings,2005.0
+pinnacle-west-capital,PNW,Utilities,Multi-Utilities,2005.0
+nisource,NI,Utilities,Multi-Utilities,2005.0
+everest-re-group,RE,Financials,Reinsurance,2005.0
+lincoln-national,LNC,Financials,Multi-line Insurance,2005.0
+ipg-photonics,IPGP,Information Technology,Electronic Manufacturing Services,2005.0
+juniper-networks,JNPR,Information Technology,Communications Equipment,2005.0
+nielsen-holdings,NLSN,Industrials,Research & Consulting Services,2008.0
+comerica,CMA,Financials,Diversified Banks,2005.0
+invesco,IVZ,Financials,Asset Management & Custody Banks,2005.0
+rollins,ROL,Industrials,Environmental & Facilities Services,2005.0
+assurant,AIZ,Financials,Multi-line Insurance,2005.0
+robert-half,RHI,Industrials,Human Resource & Employment Services,2005.0
+a-o-smith,AOS,Industrials,Building Products,2005.0
+news,NWSA,Communication Services,Publishing,2011.0
+cabot-oil-gas,COG,Energy,Oil & Gas Exploration & Production,2005.0
+regency-centers,REG,Real Estate,Retail REITs,2005.0
+"zions-bancorporation,-na",ZION,Financials,Regional Banks,2005.0
+dish-network,DISH,Communication Services,Cable & Satellite,2005.0
+franklin-resources,BEN,Financials,Asset Management & Custody Banks,2005.0
+kimco-realty,KIM,Real Estate,Retail REITs,2005.0
+norwegian-cruise-line-holdings,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2010.0
+discovery,DISCA,Communication Services,Broadcasting,2005.0
+sealed-air,SEE,Materials,Paper Packaging,2005.0
+dxc-technology,DXC,Information Technology,IT Consulting & Other Services,2005.0
+huntington-ingalls-industries,HII,Industrials,Aerospace & Defense,2009.0
+alaska-air,ALK,Industrials,Airlines,2005.0
+vornado-realty-trust,VNO,Real Estate,Office REITs,2005.0
+federal-realty-investment-trust,FRT,Real Estate,Retail REITs,2005.0
+perrigo,PRGO,Health Care,Pharmaceuticals,2005.0
+pvh,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+people's-united-financial,PBCT,Financials,Thrifts & Mortgage Finance,2005.0
+marathon-oil,MRO,Energy,Oil & Gas Exploration & Production,2005.0
+apache,APA,Energy,Oil & Gas Exploration & Production,2005.0
+leggett-platt,LEG,Consumer Discretionary,Home Furnishings,2005.0
+hanesbrands,HBI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+ralph-lauren,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+nov,NOV,Energy,Oil & Gas Equipment & Services,2005.0
+unum-group,UNM,Financials,Life & Health Insurance,2005.0
+sl-green-realty,SLG,Real Estate,Office REITs,2005.0
+fox,FOX,Communication Services,Movies & Entertainment,2017.0
+flowserve,FLS,Industrials,Industrial Machinery,2005.0
+technipfmc,FTI,Energy,Oil & Gas Equipment & Services,2005.0
+vontier,VNT,Information Technology,Electronic Equipment & Instruments,2018.0
+hollyfrontier,HFC,Energy,Oil & Gas Refining & Marketing,2005.0
+gap,GPS,Consumer Discretionary,Apparel Retail,2005.0
+xerox-holdings,XRX,Information Technology,"Technology Hardware, Storage & Peripherals",2005.0
+under-armour,UAA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+under-armour,UA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2005.0
+news,NWS,Communication Services,Publishing,2011.0
